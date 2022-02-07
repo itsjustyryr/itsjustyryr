@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Stefan(yryr) and I program stuff
-#### I am full-time student, learning programming stuff
+#### I am full-time high-school senior, learning programming stuff
 ![I am full-time student, learning programming stuff](https://cdn.discordapp.com/attachments/840604784519544885/932020822032408616/wallpaper.png)
 
 Hi! I am Stefan! You can also call me yryr and I build stuff like Discord bots, useful scripts and stuff! you will get to know me later and I cannot wait to learn more stuff or talk about the stuff we have in common! Have an amazing day!
