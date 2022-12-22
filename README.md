@@ -1,5 +1,5 @@
 ### Hi there 👋. I program stuff
-![I am full-time student, learning programming stuff]
+I am full-time student, learning programming stuff
 
 Hi! You can call me yryr and I build stuff like Discord bots, useful scripts and stuff! you will get to know me later and I cannot wait to learn more stuff or talk about the stuff we have in common! Have an amazing day!
 
