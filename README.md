@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am full-time student, learning programming stuff and studying at Titu Maiorescu University!
+I am full-time student, learning programming and cybersecurity stuff on the TryHackMe platform and studying at Titu Maiorescu University!
+
+![tryhackme stats](https://raw.githubusercontent.com/itsjustyryr/itsjustyryr/main/assets/thm_propic.png)
 
 Hi! You can call me yryr or Stefan and I build stuff like Discord bots, useful scripts and others! Have an amazing day!
 
